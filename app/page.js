@@ -1,11 +1,10 @@
 import Styles from "../app/page.module.css";
+import Card from "./components/Card";
 
 export default function Home() {
   return (
     <main className={Styles.main}>
-      <div>
-        <h1>Hello World</h1>
-      </div>
+      <Card />
     </main>
   );
 }
