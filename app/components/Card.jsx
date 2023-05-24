@@ -4,7 +4,7 @@ import Styles from "../styles/card.module.css";
 const Card = () => {
   return (
     <div>
-      <h1>Card</h1>
+      <h1>Card with Some Style</h1>
     </div>
   );
 };
