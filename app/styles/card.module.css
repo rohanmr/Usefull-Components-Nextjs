@@ -1,0 +1,41 @@
+.card {
+  position: relative;
+  width: 350px;
+  height: 250px;
+  background-color: #000;
+  overflow: hidden;
+}
+
+.card_img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  scale: 1.15;
+  transition: opacity 0.25s, sacle 0.35s;
+}
+
+.card:hover .card_img {
+  opacity: 0.5;
+  scale: 1;
+}
+
+.card_body {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  padding: 50px;
+  flex-direction: column;
+  align-items: center;
+  color: #fff;
+  text-align: center;
+}
+
+.card_body:hover {
+  border: 2px solid #fff;
+}
+
+.card_title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  font-family: sans-serif;
+}
