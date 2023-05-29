@@ -2,6 +2,8 @@
 
 Any one can add Componets in this repo by Frok and Clone the Repo.
 
+1. Card Component with Border Style. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
