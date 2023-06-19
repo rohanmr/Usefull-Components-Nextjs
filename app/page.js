@@ -7,7 +7,7 @@ export default function Home() {
     <>
       <Navbar />
       <main className={Styles.main}>
-        <Card />
+        <h1>Click the nav menu and go to the page</h1>
       </main>
     </>
   );

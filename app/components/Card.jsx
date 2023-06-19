@@ -4,7 +4,6 @@ import Styles from "../styles/card.module.css";
 const Card = () => {
   return (
     <>
-      <h1>Card With Some Style</h1>
       <div className={Styles.card}>
         <img
           src="https://images.pexels.com/photos/2631613/pexels-photo-2631613.jpeg?auto=compress&cs=tinysrgb&w=600"
