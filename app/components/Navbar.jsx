@@ -9,7 +9,7 @@ const Navbar = () => {
           Compos
         </Link>
         <div className={Styles.links}>
-          <Link href="/home" className={Styles.link}>
+          <Link href="/" className={Styles.link}>
             Home
           </Link>
           <Link href="/cards" className={Styles.link}>
