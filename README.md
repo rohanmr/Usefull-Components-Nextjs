@@ -1,8 +1,8 @@
 # Some Usefull Frontend Components:
 
-Any one can add Componets in this repo by Frok and Clone the Repo and also update Readme.md in component list.
+Anyone can add Components in this repo by Frok and Clone the Repo and also update Readme.md in the component list.
 
-# Component List:
+## Component List:
 
 1. Card Component with Hover Border Style.
 2. Navbar Component With Style. 
